@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @k0nficjusz
+- 👋 Hi, I’m Sławek, @k0nficjusz
 - 👀 I’m interested in everything as a code.
 - 🌱 I’m currently learning programming, devops and gitops.
 - 💞️ I’m looking to collaborate on some python projects.
